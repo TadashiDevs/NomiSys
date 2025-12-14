@@ -1,0 +1,66 @@
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="#F5F7FA"/>
+  
+  <!-- Background Elements -->
+  <circle cx="400" cy="300" r="250" fill="#FDF2F8"/>
+  <circle cx="250" cy="250" r="70" fill="#FCE7F3"/>
+  <circle cx="550" cy="350" r="90" fill="#FCE7F3"/>
+  
+  <!-- Notification Center -->
+  <rect x="200" y="150" width="400" height="300" rx="20" fill="white" stroke="#E2E8F0" stroke-width="2"/>
+  
+  <!-- Header -->
+  <rect x="200" y="150" width="400" height="60" rx="20" fill="#EC4899"/>
+  <rect x="230" y="175" width="180" height="15" rx="7.5" fill="white"/>
+  <circle cx="560" cy="180" r="15" fill="white"/>
+  <rect x="555" y="175" width="10" height="10" rx="2" fill="#EC4899"/>
+  
+  <!-- Notification Items -->
+  <rect x="220" y="230" width="360" height="60" rx="10" fill="#FDF2F8" stroke="#FBCFE8" stroke-width="1"/>
+  <circle cx="250" cy="260" r="15" fill="#EC4899"/>
+  <rect x="280" y="245" width="200" height="10" rx="5" fill="#64748B"/>
+  <rect x="280" y="265" width="150" height="10" rx="5" fill="#94A3B8"/>
+  <rect x="540" y="250" width="20" height="20" rx="10" fill="#EC4899"/>
+  
+  <rect x="220" y="300" width="360" height="60" rx="10" fill="#FDF2F8" stroke="#FBCFE8" stroke-width="1"/>
+  <circle cx="250" cy="330" r="15" fill="#EC4899"/>
+  <rect x="280" y="315" width="200" height="10" rx="5" fill="#64748B"/>
+  <rect x="280" y="335" width="150" height="10" rx="5" fill="#94A3B8"/>
+  <rect x="540" y="320" width="20" height="20" rx="10" fill="#EC4899"/>
+  
+  <rect x="220" y="370" width="360" height="60" rx="10" fill="#FDF2F8" stroke="#FBCFE8" stroke-width="1"/>
+  <circle cx="250" cy="400" r="15" fill="#EC4899"/>
+  <rect x="280" y="385" width="200" height="10" rx="5" fill="#64748B"/>
+  <rect x="280" y="405" width="150" height="10" rx="5" fill="#94A3B8"/>
+  <rect x="540" y="390" width="20" height="20" rx="10" fill="#EC4899"/>
+  
+  <!-- Calendar Elements -->
+  <rect x="620" y="150" width="120" height="120" rx="10" fill="white" stroke="#E2E8F0" stroke-width="2"/>
+  <rect x="620" y="150" width="120" height="30" rx="10" fill="#EC4899"/>
+  <rect x="635" y="160" width="90" height="10" rx="5" fill="white"/>
+  
+  <line x1="620" y1="190" x2="740" y2="190" stroke="#E2E8F0" stroke-width="1"/>
+  
+  <text x="635" y="210" font-family="Arial" font-size="10" fill="#64748B">Mo</text>
+  <text x="655" y="210" font-family="Arial" font-size="10" fill="#64748B">Tu</text>
+  <text x="675" y="210" font-family="Arial" font-size="10" fill="#64748B">We</text>
+  <text x="695" y="210" font-family="Arial" font-size="10" fill="#64748B">Th</text>
+  <text x="715" y="210" font-family="Arial" font-size="10" fill="#64748B">Fr</text>
+  
+  <line x1="620" y1="220" x2="740" y2="220" stroke="#E2E8F0" stroke-width="1"/>
+  
+  <text x="635" y="240" font-family="Arial" font-size="10" fill="#64748B">1</text>
+  <text x="655" y="240" font-family="Arial" font-size="10" fill="#64748B">2</text>
+  <text x="675" y="240" font-family="Arial" font-size="10" fill="#64748B">3</text>
+  <text x="695" y="240" font-family="Arial" font-size="10" fill="#EC4899">4</text>
+  <text x="715" y="240" font-family="Arial" font-size="10" fill="#64748B">5</text>
+  
+  <circle cx="695" cy="237" r="8" fill="#FDF2F8" stroke="#EC4899" stroke-width="1"/>
+  
+  <!-- Alarm/Clock Icon -->
+  <circle cx="680" cy="350" r="50" fill="white" stroke="#E2E8F0" stroke-width="2"/>
+  <circle cx="680" cy="350" r="40" fill="#FDF2F8" stroke="#EC4899" stroke-width="2"/>
+  <line x1="680" y1="320" x2="680" y2="350" stroke="#EC4899" stroke-width="3"/>
+  <line x1="680" y1="350" x2="700" y2="350" stroke="#EC4899" stroke-width="3"/>
+  <circle cx="680" cy="350" r="5" fill="#EC4899"/>
+</svg>

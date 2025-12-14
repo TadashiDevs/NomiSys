@@ -1,0 +1,41 @@
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="#F5F7FA"/>
+  
+  <!-- Background Elements -->
+  <circle cx="400" cy="300" r="250" fill="#EBF4FF"/>
+  <circle cx="150" cy="150" r="50" fill="#DBEAFE"/>
+  <circle cx="650" cy="450" r="70" fill="#DBEAFE"/>
+  
+  <!-- Calculator/Payroll Form -->
+  <rect x="200" y="150" width="400" height="300" rx="20" fill="white" stroke="#E2E8F0" stroke-width="2"/>
+  
+  <!-- Form Header -->
+  <rect x="200" y="150" width="400" height="60" rx="20" fill="#3B82F6"/>
+  <rect x="230" y="175" width="150" height="15" rx="7.5" fill="white"/>
+  
+  <!-- Form Fields -->
+  <rect x="230" y="230" width="150" height="15" rx="7.5" fill="#64748B"/>
+  <rect x="230" y="255" width="340" height="30" rx="5" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="1"/>
+  
+  <rect x="230" y="300" width="150" height="15" rx="7.5" fill="#64748B"/>
+  <rect x="230" y="325" width="340" height="30" rx="5" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="1"/>
+  
+  <!-- Calculator Elements -->
+  <rect x="230" y="375" width="80" height="50" rx="5" fill="#EBF4FF" stroke="#3B82F6" stroke-width="1"/>
+  <rect x="320" y="375" width="80" height="50" rx="5" fill="#EBF4FF" stroke="#3B82F6" stroke-width="1"/>
+  <rect x="410" y="375" width="80" height="50" rx="5" fill="#EBF4FF" stroke="#3B82F6" stroke-width="1"/>
+  <rect x="500" y="375" width="70" height="50" rx="5" fill="#3B82F6"/>
+  
+  <!-- Calculator Symbols -->
+  <text x="265" y="405" font-family="Arial" font-size="16" fill="#3B82F6" text-anchor="middle">+</text>
+  <text x="360" y="405" font-family="Arial" font-size="16" fill="#3B82F6" text-anchor="middle">-</text>
+  <text x="450" y="405" font-family="Arial" font-size="16" fill="#3B82F6" text-anchor="middle">×</text>
+  <text x="535" y="405" font-family="Arial" font-size="16" fill="white" text-anchor="middle">=</text>
+  
+  <!-- Decorative Elements -->
+  <circle cx="250" cy="450" r="5" fill="#3B82F6"/>
+  <circle cx="270" cy="450" r="5" fill="#3B82F6"/>
+  <circle cx="290" cy="450" r="5" fill="#3B82F6"/>
+  
+  <rect x="320" y="445" width="250" height="10" rx="5" fill="#E2E8F0"/>
+</svg>

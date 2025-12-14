@@ -1,0 +1,50 @@
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="#F5F7FA"/>
+  
+  <!-- Background Elements -->
+  <circle cx="400" cy="300" r="250" fill="#F0FDF4"/>
+  <circle cx="200" cy="200" r="60" fill="#DCFCE7"/>
+  <circle cx="600" cy="400" r="80" fill="#DCFCE7"/>
+  
+  <!-- Employee Portal Interface -->
+  <rect x="250" y="150" width="300" height="300" rx="20" fill="white" stroke="#E2E8F0" stroke-width="2"/>
+  
+  <!-- Portal Header -->
+  <rect x="250" y="150" width="300" height="60" rx="20" fill="#10B981"/>
+  <circle cx="280" cy="180" r="15" fill="white"/>
+  <rect x="305" y="175" width="100" height="10" rx="5" fill="white"/>
+  
+  <!-- Navigation Tabs -->
+  <rect x="270" y="230" width="80" height="30" rx="5" fill="#10B981"/>
+  <rect x="360" y="230" width="80" height="30" rx="5" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="1"/>
+  <rect x="450" y="230" width="80" height="30" rx="5" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="1"/>
+  
+  <!-- Content Area -->
+  <rect x="270" y="280" width="260" height="1" fill="#E2E8F0"/>
+  
+  <!-- Document List -->
+  <rect x="270" y="300" width="260" height="40" rx="5" fill="#F1F5F9"/>
+  <rect x="290" y="315" width="150" height="10" rx="5" fill="#64748B"/>
+  <rect x="480" y="315" width="30" height="10" rx="5" fill="#10B981"/>
+  
+  <rect x="270" y="350" width="260" height="40" rx="5" fill="#F1F5F9"/>
+  <rect x="290" y="365" width="150" height="10" rx="5" fill="#64748B"/>
+  <rect x="480" y="365" width="30" height="10" rx="5" fill="#10B981"/>
+  
+  <rect x="270" y="400" width="260" height="40" rx="5" fill="#F1F5F9"/>
+  <rect x="290" y="415" width="150" height="10" rx="5" fill="#64748B"/>
+  <rect x="480" y="415" width="30" height="10" rx="5" fill="#10B981"/>
+  
+  <!-- People Icons -->
+  <circle cx="550" cy="180" r="40" fill="#F0FDF4" stroke="#10B981" stroke-width="2"/>
+  <circle cx="550" cy="160" r="12" fill="#10B981"/>
+  <rect x="525" y="180" width="50" height="25" rx="12.5" fill="#10B981"/>
+  
+  <circle cx="650" cy="220" r="30" fill="#F0FDF4" stroke="#10B981" stroke-width="2"/>
+  <circle cx="650" cy="205" r="9" fill="#10B981"/>
+  <rect x="630" y="220" width="40" height="20" rx="10" fill="#10B981"/>
+  
+  <circle cx="600" cy="300" r="35" fill="#F0FDF4" stroke="#10B981" stroke-width="2"/>
+  <circle cx="600" cy="282" r="10" fill="#10B981"/>
+  <rect x="577" y="300" width="45" height="22" rx="11" fill="#10B981"/>
+</svg>

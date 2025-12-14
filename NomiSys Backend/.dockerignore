@@ -1,0 +1,66 @@
+# .dockerignore para Backend Laravel
+# Evitar copiar archivos innecesarios al contenedor Docker
+
+# Dependencias
+/vendor/
+/node_modules/
+
+# Archivos de entorno (se configuran en runtime)
+.env
+.env.*
+!.env.example
+
+# Archivos de desarrollo
+/tests/
+/.phpunit.cache
+.phpunit.result.cache
+phpunit.xml
+
+# IDE y editores
+/.idea
+/.vscode
+/.fleet
+/.nova
+/.zed
+*.swp
+*.swo
+*~
+
+# Git
+/.git
+/.gitignore
+/.gitattributes
+
+# Logs
+/storage/logs/*.log
+npm-debug.log
+yarn-error.log
+
+# Cache
+/bootstrap/cache/*
+/storage/framework/cache/*
+/storage/framework/sessions/*
+/storage/framework/views/*
+
+# Archivos temporales
+*.tmp
+*.cache
+.DS_Store
+Thumbs.db
+
+# Documentación
+README.md
+*.md
+!composer.json
+
+# Archivos de configuración local
+Homestead.json
+Homestead.yaml
+/.vagrant
+.phpactor.json
+auth.json
+
+# Build artifacts
+/public/hot
+/public/build
+/public/storage
